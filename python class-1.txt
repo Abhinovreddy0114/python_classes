@@ -1,0 +1,19 @@
+Python is a high-level, interpreted programming language known for its readability and simplicity.
+
+key features
+Readable and Maintainable Code
+Interpreted Language
+Dynamic Typing
+Object-Oriented
+Standard Library
+
+
+Common Use of python
+Web Development: Frameworks like Django and Flask.
+Data Science and Machine Learning: Libraries like Pandas, NumPy, SciPy, and scikit-learn.
+Automation and Scripting: Writing scripts to automate repetitive tasks.
+Software Development: Building desktop and server-side applications.
+Game Development: Using libraries like Pygame.
+Embedded Systems: Python can be used for developing applications on embedded systems.
+
+
